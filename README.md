@@ -1,4 +1,5 @@
 Interconnect Churn Prediction
+https://github.com/hamedtaeb/Customer-Churn-Prediction
 📌 Project Overview
 
 This project focuses on predicting customer churn for Interconnect, a telecom operator that provides landline, internet, and digital services. The goal is to build a machine learning model that forecasts which customers are likely to leave, enabling the company to take proactive measures such as offering promotions or tailored plans to improve customer retention.
